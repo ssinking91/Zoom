@@ -215,4 +215,3 @@ socket.adapter.rooms;
   - 최신 브라우저는 대부분 웹 소켓을 지원하며, 노드는 ws나 Socket.IO같은 패키지를 통해 웹 소켓 사용 가능
 
 <br/>
-```

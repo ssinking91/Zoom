@@ -120,6 +120,7 @@ app.get("/*", (_, res) => res.redirect("/"));
 // wsServer.on("connection", (socket) => {
 //   socket["nickname"] = "Anon";
 
+// // EventListener 인 셈. 이벤트가 발생하는지 확인할 수 있음
 //   socket.onAny((event) => {
 //     console.log(`Socket Event: ${event}`);
 //   });

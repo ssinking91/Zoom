@@ -50,9 +50,15 @@ npm run dev
 
   - 여기서 전체 설정과 지역 설정이 겹치는 설정이 존재할 경우 지역 설정으로 덮어진다. (쉽게 전역 변수를 지역변수로 덮는다 생각하면 된다.)
 
-## <br />
+<br />
 
-- socket.io
+<p align="center" style="background-color:white">
+  <img width="600" alt="[Peer2Peer]" src="https://user-images.githubusercontent.com/89959952/172528443-a98ece68-bd52-4a88-97c1-12d376e7e108.png">
+</p>
+
+<br />
+
+- ⭐ socket.io
 
   - Socket.io란 Websocket을 기반으로 실시간 웹 애플리케이션을 위한 JavaScript 라이브러리
 
@@ -61,8 +67,6 @@ npm run dev
   - Socket.io에서는 여러가지 메소드들을 제공을 해주는데 emit( 보내다 ), on(받다) , join(들어가다) , leave(나가다) room(방을 만들어 room에 들어있는 소켓끼리 통신할수 있게 해준다) 등등 을 제공
 
 <br />
-
-- ⭐ socket.io
 
 ```javascript
 var socket = io.connect("서버 주소");

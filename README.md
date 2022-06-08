@@ -52,12 +52,6 @@ npm run dev
 
 <br />
 
-<p align="center" style="background-color:white">
-  <img width="600" alt="[Peer2Peer]" src="https://user-images.githubusercontent.com/89959952/172528443-a98ece68-bd52-4a88-97c1-12d376e7e108.png">
-</p>
-
-<br />
-
 - ⭐ socket.io
 
   - Socket.io란 Websocket을 기반으로 실시간 웹 애플리케이션을 위한 JavaScript 라이브러리
@@ -201,6 +195,16 @@ socket.adapter.rooms;
 - @socket.io/admin-ui
 
   - Socket.IO 관리 UI를 사용하여 Socket.IO 배포 상태에 대한 개요를 볼 수 있음
+
+<br />
+
+- ⭐ WebRTC(Peer2Peer)
+
+<br />
+
+<p align="center" style="background-color:white">
+  <img width="600" alt="[Peer2Peer]" src="https://user-images.githubusercontent.com/89959952/172528443-a98ece68-bd52-4a88-97c1-12d376e7e108.png">
+</p>
 
 <br/>
 
